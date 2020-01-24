@@ -1,0 +1,16 @@
+{
+    "en-US": {
+		"language_key" = "en-US",
+		"language_name" = "English",
+        "menu_back": "⤴️ Back…",
+        "menu_jump": "#️⃣ Go to Page",
+        "menu_next_page": "Next Page ➡️ ",
+        "menu_open_folder": "📂 Open: ",
+        "menu_previous_page": "⬅️ Previous Page",
+        "menu_search": "🔍 Search… ",
+        "menu_search_reset": "❌ Reset Search…",
+        "prompt_folder": "Choose Folder:",
+        "prompt_jump": "Go to Page",
+        "prompt_shortcut": "Choose Shortcut:"
+    }
+}
