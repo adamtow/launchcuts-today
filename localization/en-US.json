@@ -1,7 +1,7 @@
 {
 	"en-US": {
-		"language_key" = "en-US",
-		"language_name" = "English",
+		"language_key": "en-US",
+		"language_name": "English",
 		"menu_back": "⤴️ Back…",
 		"menu_jump": "#️⃣ Go to Page",
 		"menu_next_page": "Next Page ➡️ ",
