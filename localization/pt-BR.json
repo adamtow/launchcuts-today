@@ -1,0 +1,16 @@
+{
+	"pt-BR": {
+		"language_key": "pt-BR",
+		"language_name": "Português",
+		"menu_back": "⤴️ Back️ Voltar ...",
+		"menu_jump": "#️⃣ Vá para a página",
+		"menu_next_page": "Próxima página ➡️",
+		"menu_open_folder": "📂 Abrir:",
+		"menu_previous_page": "⬅️ Página anterior",
+		"menu_search": "🔍 Pesquisar…",
+		"menu_search_reset": "❌ Redefinir pesquisa ...",
+		"prompt_folder": "Escolha a pasta:",
+		"prompt_jump": "Vá para a página",
+		"prompt_shortcut": "Escolha atalho:"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"zn-CH": {
+		"language_key": "zn-CH",
+		"language_name": "简体中文",
+		"menu_back": "⤴️ 回来...",
+		"menu_jump": "#️⃣ 转到页面",
+		"menu_next_page": "下一页 ➡️",
+		"menu_open_folder": "📂 打开：",
+		"menu_previous_page": "⬅️ 上一页",
+		"menu_search": "🔍 搜索...",
+		"menu_search_reset": "❌ 重置搜索...",
+		"prompt_folder": "选择文件夹：",
+		"prompt_jump": "转到页面",
+		"prompt_shortcut": "选择快捷方式："
+	}
+
+}

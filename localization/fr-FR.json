@@ -1,0 +1,16 @@
+{
+	"fr-FR": {
+		"language_key": "fr-FR",
+		"language_name": "Français",
+		"menu_back": "⤴️ Retour...",
+		"menu_jump": "#️⃣ Aller à la page",
+		"menu_next_page": "Page suivante ➡️",
+		"menu_open_folder": "📂 Ouvert:",
+		"menu_previous_page": "⬅️ Page précédente",
+		"menu_search": "🔍 Recherche... ",
+		"menu_search_reset": "❌ Recherche de réinitialise...",
+		"prompt_folder": "Choisissez Folder:",
+		"prompt_jump": "Aller à La Page",
+		"prompt_shortcut": "Choisissez Shortcut:"
+	}
+}

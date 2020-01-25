@@ -1,0 +1,16 @@
+{
+	"ro-RO": {
+		"language_key": "ro-RO",
+		"language_name": "Romanian",
+		"menu_back": "⤴️ Înapoi...",
+		"menu_jump": "#️⃣ Mergi la pagina",
+		"menu_next_page": "Pagina următoare ➡️",
+		"menu_open_folder": "📂 Deschis: ",
+		"menu_previous_page": "⬅️ Pagina anterioară",
+		"menu_search": "🔍 Căutare... ",
+		"menu_search_reset": "❌ Resetare căutare...",
+		"prompt_folder": "Alegeți folderul:",
+		"prompt_jump": "Mergi la Pagină",
+		"prompt_shortcut": "Alegeți Comandă rapidă:"
+	}
+}

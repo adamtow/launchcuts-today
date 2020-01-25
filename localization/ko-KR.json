@@ -1,0 +1,16 @@
+{
+	"ko-KR": {
+		"language_key": "ko-KR",
+		"language_name": "한국어",
+		"menu_back": "⤴️ 백...",
+		"menu_jump": "#️⃣ 페이지로 이동",
+		"menu_next_page": "다음 페이지 ➡️",
+		"menu_open_folder": "📂 열기:",
+		"menu_previous_page": "이전 ⬅️ 페이지",
+		"menu_search": "🔍 검색... ",
+		"menu_search_reset": "❌ 재설정 검색...",
+		"prompt_folder": "폴더 선택:",
+		"prompt_jump": "페이지로 이동",
+		"prompt_shortcut": "바로 가기 선택:"
+	}
+}

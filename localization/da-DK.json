@@ -1,0 +1,16 @@
+{
+	"da-DK": {
+		"language_key": "da-DK",
+		"language_name": "Danish",
+		"menu_back": "⤴️ Tilbage...",
+		"menu_jump": "#️⃣ Gå til side",
+		"menu_next_page": "Næste side ➡️",
+		"menu_open_folder": "📂 Åben:",
+		"menu_previous_page": "⬅️ Forrige side",
+		"menu_search": "🔍 Søg...",
+		"menu_search_reset": "❌ Nulstil søgning...",
+		"prompt_folder": "Vælg mappe:",
+		"prompt_jump": "Gå til side",
+		"prompt_shortcut": "Vælg Genvej:"
+	}
+}

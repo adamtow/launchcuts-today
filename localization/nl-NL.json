@@ -1,0 +1,16 @@
+{
+	"nl-NL": {
+		"language_key": "nl-NL",
+		"language_name": "Dutch",
+		"menu_back": "⤴️ Terug...",
+		"menu_jump": "#️⃣ Ga naar pagina",
+		"menu_next_page": "Volgende pagina ➡️",
+		"menu_open_folder": "📂 Open: ",
+		"menu_previous_page": "⬅️ vorige pagina",
+		"menu_search": "🔍 Zoeken...",
+		"menu_search_reset": "❌ Zoeken opnieuw instellen...",
+		"prompt_folder": "Map kiezen:",
+		"prompt_jump": "Naar pagina gaan",
+		"prompt_shortcut": "Kies Snelkoppeling:"
+	}
+}

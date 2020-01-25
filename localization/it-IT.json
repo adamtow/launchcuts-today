@@ -1,0 +1,16 @@
+{
+	"it-IT": {
+		"language_key": "it-IT",
+		"language_name": "Italiano",
+		"menu_back": "⤴️...",
+		"menu_jump": "#️⃣ Pagina di pagina",
+		"menu_next_page": "Pagina successiva ➡️",
+		"menu_open_folder": "📂 Apertura: ",
+		"menu_previous_page": "⬅️ Pagina precedente",
+		"menu_search": "🔍 Ricerca...",
+		"menu_search_reset": "❌ Reimposta ricerca...",
+		"prompt_folder": "Scegliere Cartella:",
+		"prompt_jump": "Vai alla pagina",
+		"prompt_shortcut": "Scegliere Scelta rapida:"
+	}
+}

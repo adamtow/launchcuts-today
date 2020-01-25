@@ -1,0 +1,16 @@
+{
+	"hu-HU": {
+		"language_key": "hu-HU",
+		"language_name": "Hungarian",
+		"menu_back": "⤴️ Vissza...",
+		"menu_jump": "#️⃣ Ugrás az oldalra",
+		"menu_next_page": "Következő oldal ➡️",
+		"menu_open_folder": "📂 Megnyitás: ",
+		"menu_previous_page": "⬅️ Előző oldal",
+		"menu_search": "🔍 Keresés... ",
+		"menu_search_reset": "❌ Keresés visszaállítása...",
+		"prompt_folder": "Mappa kiválasztása:",
+		"prompt_jump": "Ugrás az oldalra",
+		"prompt_shortcut": "Parancsikon kiválasztása:"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"ja-JP": {
+		"language_key": "ja-JP",
+		"language_name": "日本語",
+		"menu_back": "⤴️ 戻る.",
+		"menu_jump": "#️⃣ ページへ移動",
+		"menu_next_page": "次のページ ➡️",
+		"menu_open_folder": "📂 開く:",
+		"menu_previous_page": "⬅️ 前のページ",
+		"menu_search": "🔍 検索.",
+		"menu_search_reset": "❌検索をリセットします。",
+		"prompt_folder": "フォルダの選択:",
+		"prompt_jump": "ページへ移動",
+		"prompt_shortcut": "ショートカットの選択:"
+	}
+}

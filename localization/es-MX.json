@@ -1,0 +1,16 @@
+{
+	"es-MX": {
+		"language_key": "es-MX",
+		"language_name": "Español",
+		"menu_back": "⤴️ Espalda...",
+		"menu_jump": "#️⃣ De la página",
+		"menu_next_page": "Próxima página ➡️",
+		"menu_open_folder": "📂 Abierto:",
+		"menu_previous_page": "⬅️ Página anterior",
+		"menu_search": "Búsqueda 🔍... ",
+		"menu_search_reset": "❌ Restablecer búsqueda...",
+		"prompt_folder": "Elija Carpeta:",
+		"prompt_jump": "Ir a página",
+		"prompt_shortcut": "Elija Acceso directo:"
+	}
+}

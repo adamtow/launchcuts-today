@@ -1,0 +1,16 @@
+{
+	"fi-FI": {
+		"language_key": "fi-FI",
+		"language_name": "Finnish",
+		"menu_back": "⤴️ Takaisin...",
+		"menu_jump": "#️⃣ Siirry sivulle",
+		"menu_next_page": "Seuraava sivu ➡️",
+		"menu_open_folder": "📂 Avoinna: ",
+		"menu_previous_page": "⬅️ Edellinen sivu",
+		"menu_search": "🔍 Haku...",
+		"menu_search_reset": "❌ Palauta haku...",
+		"prompt_folder": "Valitse kansio:",
+		"prompt_jump": "Siirry sivulle",
+		"prompt_shortcut": "Valitse pikakuvake:"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"sv-SE": {
+		"language_key": "sv-SE",
+		"language_name": "Svensk",
+		"menu_back": "⤴️ Tillbaka...",
+		"menu_jump": "#️⃣ Gå till sidan",
+		"menu_next_page": "Nästa sida ➡️ ",
+		"menu_open_folder": "📂 Öppna: ",
+		"menu_previous_page": "⬅️ Föregående sida",
+		"menu_search": "🔍 Sök... ",
+		"menu_search_reset": "❌ Återställ sökning...",
+		"prompt_folder": "Välj mapp:",
+		"prompt_jump": "Gå till sidan",
+		"prompt_shortcut": "Välj Genväg:"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"he-IL": {
+		"language_key": "he-IL",
+		"language_name": "Hebrew",
+		"menu_back": "⤴️ לאחור...",
+		"menu_jump": "#️⃣ עבור לדף",
+		"menu_next_page": "העמוד הבא ➡️",
+		"menu_open_folder": "📂 פתוח: ",
+		"menu_previous_page": "⬅️ העמוד הקודם",
+		"menu_search": "🔍 חיפוש...",
+		"menu_search_reset": "❌ איפוס החיפוש...",
+		"prompt_folder": "בחר תיקיה:",
+		"prompt_jump": "עבור לדף",
+		"prompt_shortcut": "בחר קיצור דרך:"
+	}
+}

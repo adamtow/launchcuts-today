@@ -1,0 +1,16 @@
+{
+	"nb-NO": {
+		"language_key": "nb-NO",
+		"language_name": "Norwegian",
+		"menu_back": "⤴️ Tilbake...",
+		"menu_jump": "#️⃣ Gå til side",
+		"menu_next_page": "Neste side ➡️",
+		"menu_open_folder": "📂 Åpen: ",
+		"menu_previous_page": "⬅️ Forrige side",
+		"menu_search": "🔍 Søk... ",
+		"menu_search_reset": "❌ Tilbakestill søk...",
+		"prompt_folder": "Velg Mappe:",
+		"prompt_jump": "Gå til Side",
+		"prompt_shortcut": "Velg Snarvei:"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"tr-TR": {
+		"language_key": "tr-TR",
+		"language_name": "Turkish",
+		"menu_back": "⤴️ Geri...",
+		"menu_jump": "#️⃣ Sayfaya Git",
+		"menu_next_page": "Sonraki Sayfa ➡️",
+		"menu_open_folder": "📂 Açık: ",
+		"menu_previous_page": "⬅️ Önceki Sayfa",
+		"menu_search": "🔍 Arama...",
+		"menu_search_reset": "❌ Sıfırla Arama...",
+		"prompt_folder": "Klasör'ü Seçin:",
+		"prompt_jump": "Sayfaya Git",
+		"prompt_shortcut": "Kısayol'u seçin:"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"sk-SK": {
+		"language_key": "sk-SK",
+		"language_name": "Slovak",
+		"menu_back": "⤴️ Späť...",
+		"menu_jump": "#️⃣ Prejsť na stránku",
+		"menu_next_page": "Nasledujúca strana ➡️",
+		"menu_open_folder": "📂 Otvorené: ",
+		"menu_previous_page": "⬅️ Predchádzajúca strana",
+		"menu_search": "🔍 Hľadať... ",
+		"menu_search_reset": "❌ Obnoviť vyhľadávanie...",
+		"prompt_folder": "Vybrať priečinok:",
+		"prompt_jump": "Prejsť na stránku",
+		"prompt_shortcut": "Vyberte skratku:"
+	}
+}

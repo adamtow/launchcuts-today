@@ -1,0 +1,16 @@
+{
+	"pl-PL": {
+		"language_key": "pl-PL",
+		"language_name": "Polish",
+		"menu_back": "⤴️ Powrót...",
+		"menu_jump": "#️⃣ Przejdź do strony",
+		"menu_next_page": "Następna strona ➡️",
+		"menu_open_folder": "📂 Otwarte:",
+		"menu_previous_page": "⬅️ Poprzedniej strony",
+		"menu_search": "🔍 Szukaj... ",
+		"menu_search_reset": "❌ Reset uniewinnianie wyszukiwania...",
+		"prompt_folder": "Wybierz pozycję Folder:",
+		"prompt_jump": "Przejdź do strony",
+		"prompt_shortcut": "Wybierz pozycję Skrót:"
+	}
+}

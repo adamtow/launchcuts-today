@@ -1,0 +1,16 @@
+{
+	"cs-CZ": {
+		"language_key": "cs-CZ",
+		"language_name": "Czech",
+		"menu_back": "⤴️ Zpátky...",
+		"menu_jump": "#️⃣ Přejít na stránku",
+		"menu_next_page": "Další stránka ➡️",
+		"menu_open_folder": "📂 Otevřeno:",
+		"menu_previous_page": "⬅️ Předchozí stránka",
+		"menu_search": "🔍 Hledání...",
+		"menu_search_reset": "❌ Obnovit hledání...",
+		"prompt_folder": "Zvolte složku:",
+		"prompt_jump": "Přejít na stránku",
+		"prompt_shortcut": "Zvolte Zástupce:"
+	}
+}

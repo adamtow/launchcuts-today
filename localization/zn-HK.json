@@ -1,0 +1,17 @@
+{
+	"zn-HK": {
+	"language_key": "zn-HK",
+	"language_name": "Chinese Traditional",
+	"menu_back": "⤴️ 返...",
+	"menu_jump": "#️⃣ 轉去頁面",
+	"menu_next_page": "下一頁 ➡️",
+	"menu_open_folder": "📂 打開: ",
+	"menu_previous_page": "⬅️ 上一頁",
+	"menu_search": "🔍 搜索... ",
+	"menu_search_reset": "❌ 重置搜索...",
+	"prompt_folder": "揀文件夾:",
+	"prompt_jump": "轉到頁面",
+	"prompt_shortcut": "揀快捷方式:"
+}
+
+}

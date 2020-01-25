@@ -1,0 +1,16 @@
+{
+	"de-DE": {
+		"language_key": "de-DE",
+		"language_name": "Deutsch",
+		"menu_back": "⤴️ Zurück...",
+		"menu_jump": "#️⃣ Zur Seite gehen",
+		"menu_next_page": "Nächste Seite ➡️",
+		"menu_open_folder": "📂 Öffnen:",
+		"menu_previous_page": "⬅️ Vorherige Seite",
+		"menu_search": "🔍 Suche...",
+		"menu_search_reset": "❌ Suche zurücksetzen...",
+		"prompt_folder": "Wählen Sie Ordner:",
+		"prompt_jump": "Gehe zu Seite",
+		"prompt_shortcut": "Wählen Sie Shortcut:"
+	}
+}

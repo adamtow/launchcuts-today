@@ -1,0 +1,16 @@
+{
+	"id-ID": {
+		"language_key": "id-ID",
+		"language_name": "Indonesian",
+		"menu_back": "⤴️ Kembali...",
+		"menu_jump": "#️⃣ Pergi ke halaman",
+		"menu_next_page": "Halaman berikut ➡️",
+		"menu_open_folder": "📂 Terbuka: ",
+		"menu_previous_page": "⬅️ Halaman sebelumnya",
+		"menu_search": "🔍 Cari...",
+		"menu_search_reset": "❌ Atur ulang pencarian...",
+		"prompt_folder": "Pilih folder:",
+		"prompt_jump": "Buka halaman",
+		"prompt_shortcut": "Pilih pintasan:"
+	}
+}
